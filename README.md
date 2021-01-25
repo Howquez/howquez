@@ -4,8 +4,9 @@
 - 🕵️‍♂️ I am also working as a web analyst at [SinnerSchrader](https://sinnerschrader.com/) where I try to make customers happy by learning to understand their visitors.
 - 🔭 I am currently working on [an economic experiment](https://github.com/Howquez/forecast-uncertainty) investigating the respondents ambiguity attitudes.
 - ⛈ In addition, I prepare a [dynamic public goods game](https://github.com/Howquez/coopUncertainty) (also an economic experiment) and think about the incorporation of uncertainty to model cooperation in the light of increasing severity and frequency of extreme weather events.
-- 📫 send me an [eMail](mailto:roggenkh@hsu-hh.de) and find me on 💼 [linkedin]() or 🚴 [strava](https://www.strava.com/athletes/20973736).
 - 🗃 Back in the days I created used the account to pre-register an analysis plan for my master's thesis' experiment, which is set private temporarily. However, you can find the thesis iteself [here](https://github.com/Howquez/Are-there-hidden-Benefits-of-Monitoring/blob/master/README.md).
+- 📫 send me an [eMail](mailto:roggenkh@hsu-hh.de) and find me on 💼 [linkedin]() or 🚴 [strava](https://www.strava.com/athletes/20973736).
+
 <!--
 **Howquez/howquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
